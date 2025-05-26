@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: darkgray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding: 50px;
+    font-weight: bold;
+}
+h1{
+    font-size: 70px;
+}
+input{
+    background-color: darkgray;
+    max-width: 30px;
+    border-radius: 50px;
+    border-color: white;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    margin: 20  px;
+    
+}

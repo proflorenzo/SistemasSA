@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.main-report {
+    width: 100vw;
+    height: 100vh;
+    background-color: #201b2c;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.main-report ul {
+    position: absolute;
+    margin-top: 250px;
+    font-size: 2vw;
+    color: #59db48;
+}
+.main-report h3 {
+    font-size: 3vw;
+    color: #c4ecbf;
+}
+.main-page-imagemREP3 {
+    display: block;
+    margin-left: auto; 
+    margin-top: 20px;
+    width: 35vw;
+}

@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #f0eded;
+}
+.name-P1 {
+  color: #855c3a;
+  margin: 0;
+}
+.nav-escolha {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #424242;
+  padding: 10px 20px;
+}
+.menu-de-LinK li a {
+  color: #f0eded;
+  text-decoration: none;
+  padding: 8px 12px;
+  transition: background-color 0.5s;
+}
+.menu-de-LinK li a:hover {
+  background-color: #ac2929;
+  border-radius: 100px;
+}
+.menu-de-LinK {
+  list-style: none;
+  display: flex;
+  margin: 0;
+}

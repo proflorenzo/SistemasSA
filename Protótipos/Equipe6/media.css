@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+.media-geral {
+    width: 100vw;
+    height: 100vh;
+    background-color: #201b2c;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.media-geral ul {
+    position: absolute;
+    margin-top: 250px;
+    font-size: 2vw;
+    color: #59db48;
+}
+.media-geral h2 {
+    font-size: 3vw;
+    color: #c4ecbf;
+}
+.media-page-imagemREP4 {
+    display: block;
+    margin-left: auto; 
+    margin-top: 20px;
+    width: 35vw;
+}

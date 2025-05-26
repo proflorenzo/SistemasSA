@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body{
+    background-color: darkgray;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+    margin-top: 170px;
+
+    
+}
+h1{
+    font-size: 60px;
+}
+
+.Menu{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 300px;
+    margin: 0 auto;
+    
+}
+
+a{
+    color: darkgray
+    ;
+    display: block;
+    padding: 15px;
+    background-color: maroon;
+    border-radius: 50px;
+    font-size: 20px;
+    text-decoration: none;
+}
